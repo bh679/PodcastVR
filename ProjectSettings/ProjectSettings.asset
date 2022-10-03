@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: VR Podcast
+  companyName: Brennan Hatton
+  productName: VRPodcast
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -134,7 +134,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.8
+  bundleVersion: 0.00.02
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
@@ -148,8 +148,15 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: b3ac24369c63cb246976bcaf96adab11, type: 2}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: cd8e38a5bebd796458c1ea700254395e, type: 2}
+  - {fileID: 0}
+  - {fileID: 2734309922100522936, guid: 3bbd436bb94109d4eb62564e8d8f856e, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -169,7 +176,8 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.VR-Podcast
+    Android: com.BrennanHatton.VRPodcast
+    Standalone: com.Brennan-Hatton.VRPodcast
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -287,7 +295,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: e21b84bd9dbaf0d44b077d3e017e4d53, type: 3}
+      m_Icon: {fileID: 2800000, guid: e68e8991e6b97bc44b09d32aa2b1f358, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
